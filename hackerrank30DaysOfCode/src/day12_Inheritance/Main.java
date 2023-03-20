@@ -1,4 +1,4 @@
-package day11_Inheritance;
+package day12_Inheritance;
 
 import java.util.Arrays;
 import java.util.Scanner;
